@@ -2,7 +2,7 @@
 I am an active fifth-semester student at the Faculty of Information Technology, Tarumanagara University, with a strong interest in web
 development and mobile programming. I have skills in HTML, CSS, JavaScript, as well as Responsive Design and CSS Frameworks like
 Bootstrap. I am also familiar with JavaScript Frameworks such as React.js, Backend Development using Node.js, and Database
-Management with SQL and NoSQL. With this experience, I am ready to collaborate in a team and am always enthusiastic about learning
+Management with SQL and NoSQL. With this experience, I am ready to collaborate in a team and always enthusiastic about learning
 new things to support the development of reliable and responsive web applications.<br>
 
 
